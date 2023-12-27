@@ -1,0 +1,2 @@
+![Made with Love in India](https://madewithlove.org.in/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+This is a description of your project. It takes some numbers or arrays or whatever and does a thing, then returns some things. Tell the world. Just a text sentence like these.
