@@ -7,7 +7,7 @@ classifiers = [
 
 setup(
     name="ShippingContainerNumberValidate",
-    version="1.0.0",
+    version="1.0.4",
     description="Helps you validate a shipping container number as per ISO 6346 standard",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
